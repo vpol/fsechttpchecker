@@ -1,0 +1,863 @@
+2014-08-14 02:55:39,238 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 02:55:39,262 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 02:56:22,862 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 02:56:22,884 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 02:58:14,573 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 02:58:14,583 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 02:58:49,711 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 02:58:49,749 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 02:59:14,115 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 02:59:14,126 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 02:59:24,148 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 02:59:24,159 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 02:59:34,152 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 02:59:34,177 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:00:13,305 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:00:13,315 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:00:57,047 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:00:57,055 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:01:07,052 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:01:07,086 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:01:17,055 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:01:17,102 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:01:27,060 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:01:27,125 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:01:37,064 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:01:37,140 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:01:47,068 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:01:47,173 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:01:57,072 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:01:57,198 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:02:07,107 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:02:07,212 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:02:13,623 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:02:13,634 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:02:23,628 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:02:23,672 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:02:33,632 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:02:33,688 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:02:43,633 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:02:43,704 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:02:53,637 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:02:53,721 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:03:03,639 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:03:03,742 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:03:13,674 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:03:13,761 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:03:24,442 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:03:24,449 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:03:24,456 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:08:01,194 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:08:01,203 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:08:01,213 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:08:11,199 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:08:11,227 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:08:11,229 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:08:21,202 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:08:21,246 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:08:21,249 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:08:29,656 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:08:29,845 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:08:29,847 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:08:39,659 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:08:39,861 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:08:39,866 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:08:49,662 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:08:49,877 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:08:49,879 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:08:59,666 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:08:59,890 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:08:59,894 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:09:09,706 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:09:09,904 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:09:09,906 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:09:19,712 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:09:19,917 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:09:19,921 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:09:29,718 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:09:29,933 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:09:29,936 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:09:39,721 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:09:39,948 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:09:39,951 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:09:49,727 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:09:49,960 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:09:49,962 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:09:59,734 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:09:59,972 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:09:59,977 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:10:09,501 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:10:09,512 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:10:09,520 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:10:19,528 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:10:19,536 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:10:19,553 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:10:29,539 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:10:29,553 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:10:29,571 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:10:39,543 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:10:39,566 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:10:39,585 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:10:49,549 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:10:49,590 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:10:49,598 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:10:59,552 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:10:59,605 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:10:59,608 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:11:06,972 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:11:06,979 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:11:06,985 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:11:16,978 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:11:16,997 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:11:16,998 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:11:27,011 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:11:27,065 INFO finished processing http://selectel.fff, invalid hostname, took 0.01 seconds
+2014-08-14 03:11:27,079 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:11:37,280 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:11:37,289 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:11:37,530 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:11:47,286 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:11:47,307 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:11:47,543 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:11:57,291 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:11:57,322 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:11:57,555 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:12:07,293 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:12:07,341 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:12:07,566 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:12:17,298 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:12:17,480 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:12:17,578 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:12:27,381 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:12:27,392 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:12:27,399 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:12:37,410 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:12:37,417 INFO finished processing http://selectel.fff, invalid hostname, took 0.01 seconds
+2014-08-14 03:12:37,431 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:12:47,418 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:12:47,425 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:12:47,446 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:12:57,422 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:12:57,440 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:12:57,466 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:13:07,426 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:13:07,457 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:13:07,482 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:13:17,429 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:13:17,499 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:13:17,502 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:13:27,434 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:13:27,518 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:13:27,527 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:13:37,440 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:13:37,548 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:13:37,964 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:13:43,457 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:13:43,467 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:13:43,473 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:13:53,464 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:13:53,482 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:13:53,483 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:14:03,468 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:14:03,491 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:14:03,496 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:14:13,473 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:14:13,505 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:14:13,507 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:14:23,480 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:14:23,517 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:14:23,519 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:14:33,485 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:14:33,530 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:14:33,533 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:14:43,490 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:14:43,545 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:14:43,547 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:15:08,612 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:15:08,691 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:15:08,866 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:15:18,617 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:15:18,730 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:15:18,876 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:15:28,623 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:15:28,750 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:15:28,886 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:15:38,628 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:15:38,770 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:15:38,901 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:15:48,634 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:15:48,789 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:15:48,914 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:15:58,640 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:15:58,928 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:15:58,929 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:16:08,645 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:16:08,941 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:16:08,942 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:16:18,683 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:16:18,952 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:16:18,954 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:16:28,689 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:16:28,972 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:16:28,976 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:16:38,691 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:16:38,984 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:16:38,987 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:16:48,697 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:16:48,996 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:16:48,998 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:16:58,701 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:16:59,188 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:16:59,197 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:17:08,704 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:17:09,205 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:17:09,208 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:17:18,711 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:17:19,223 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:17:19,225 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:17:28,744 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:17:29,247 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:17:29,248 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:17:38,748 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:17:39,264 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:17:39,265 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:17:48,754 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:17:49,273 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:17:49,277 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:17:58,759 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:17:59,287 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:17:59,291 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:18:08,762 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:18:09,303 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:18:09,307 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:18:18,769 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:18:19,319 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:18:19,321 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:18:28,775 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:18:29,330 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:18:29,334 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:18:38,810 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:18:39,345 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:18:39,348 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:18:48,813 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:18:49,363 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:18:49,366 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:18:58,816 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:18:59,605 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:18:59,610 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:19:11,649 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:19:47,534 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:19:57,569 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:19:59,595 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:20:16,610 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:20:18,630 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:20:33,648 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:20:47,660 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:20:47,677 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:20:48,698 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:20:50,751 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:20:50,759 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:20:50,772 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:20:56,974 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:21:04,758 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:21:05,991 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:21:07,785 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:21:14,005 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:21:16,632 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:21:16,644 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:21:16,651 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:21:26,639 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:21:26,658 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:21:26,660 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:21:36,643 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:21:36,672 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:21:36,673 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:21:46,646 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:21:46,686 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:21:46,687 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:21:56,681 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:21:56,697 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:21:56,700 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:22:06,684 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:22:06,706 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:22:06,711 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:22:16,691 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:22:16,715 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:22:16,724 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:22:26,695 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:22:26,731 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:22:26,741 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:22:36,699 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:22:36,746 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:22:37,003 INFO finished processing http://selectel.org/hello, http error 404, took 0.01 seconds
+2014-08-14 03:22:46,705 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:22:46,936 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:22:47,015 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:22:56,709 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:22:56,949 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:22:57,035 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:23:06,746 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:23:06,962 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:23:07,050 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:23:16,754 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:23:17,000 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:23:17,065 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:23:26,756 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:23:27,016 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:23:27,163 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:23:36,760 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:23:37,031 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:23:37,179 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:23:46,766 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:23:47,045 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:23:47,200 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:23:56,768 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:23:57,058 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:23:57,217 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:24:06,774 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:24:07,075 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:24:07,233 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:24:16,867 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:24:17,091 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:24:17,251 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:24:26,873 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:24:27,104 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:24:27,270 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:24:36,879 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:24:37,116 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:24:37,293 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:24:46,883 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:24:47,128 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:24:47,310 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:24:56,890 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:24:57,191 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.01 seconds
+2014-08-14 03:24:57,332 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:25:06,897 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:25:07,203 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:25:07,357 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:25:16,903 INFO finished processing http://selectel.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:25:17,465 INFO finished processing http://selectel.ru, found pattern "Аренда сервера", took 0.00 seconds
+2014-08-14 03:25:17,469 INFO finished processing http://selectel.org/hello, http error 404, took 0.00 seconds
+2014-08-14 03:25:28,157 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:25:28,497 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:25:28,524 INFO finished processing http://f-secure.com/hello, http error 404, took 0.03 seconds
+2014-08-14 03:25:38,162 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:25:38,702 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:25:39,583 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:25:48,168 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:25:48,765 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:25:50,029 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:25:58,173 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:25:58,888 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:26:00,458 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:26:08,176 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:26:09,078 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:26:10,918 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:26:18,181 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:26:19,157 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:26:21,228 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:26:28,187 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:26:29,309 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:26:31,526 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:26:38,276 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:26:39,391 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:26:41,946 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:26:48,283 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:26:49,560 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:26:52,290 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:26:58,287 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:26:59,639 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:27:02,810 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:27:08,290 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:27:09,724 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:27:13,100 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:27:18,296 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:27:19,861 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:27:23,349 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:27:28,302 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:27:29,984 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:27:33,863 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:27:38,308 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:27:45,216 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:27:45,397 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:27:45,576 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:32:45,246 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:32:45,734 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:32:45,862 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:37:45,275 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:37:46,071 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:37:46,075 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:38:04,275 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:38:04,642 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:38:04,761 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:39:03,118 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:39:03,383 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:39:03,536 INFO finished processing http://f-secure.com/hello, http error 404, took 0.03 seconds
+2014-08-14 03:48:06,519 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:48:06,816 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:48:06,822 INFO finished processing http://f-secure.com/hello, http error 404, took 0.03 seconds
+2014-08-14 03:48:46,773 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:48:46,962 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:48:47,131 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:48:51,778 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:48:52,021 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:48:52,351 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:48:56,783 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:48:57,118 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:48:57,465 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:01,788 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:02,199 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:02,664 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:06,794 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:07,275 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:07,887 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:11,832 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:12,425 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:13,107 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:16,838 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:17,505 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:18,264 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:21,841 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:22,581 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:23,450 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:26,846 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:27,658 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:28,789 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:31,850 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:32,751 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:34,021 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:36,855 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:37,871 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:39,451 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:41,862 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:42,947 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:46,866 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:47,132 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:48,021 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:51,869 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:52,494 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:53,098 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:49:56,875 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:49:57,594 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:49:58,173 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:01,880 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:02,626 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:50:03,575 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:06,882 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:08,329 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:50:08,654 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:11,885 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:13,524 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:50:13,735 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:16,924 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:18,673 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:50:18,820 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:50:21,926 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:23,893 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:24,050 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:50:26,931 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:28,951 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:29,321 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:50:31,937 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:34,071 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:34,353 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:50:36,942 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:39,437 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:39,608 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:50:41,947 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:44,622 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:44,713 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:50:46,951 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:49,697 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:49,738 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:50:51,955 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:54,789 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:50:54,973 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:50:56,961 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:50:59,847 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:00,250 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:01,967 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:04,973 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:05,471 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:06,970 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:10,046 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:10,748 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:11,972 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:15,122 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:16,117 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:16,976 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:20,195 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:21,143 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:22,011 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:25,501 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:26,372 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:27,016 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:30,625 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:31,799 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:32,022 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:35,701 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:36,974 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:37,025 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:40,889 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:42,030 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:42,199 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:45,995 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:47,035 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:47,321 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:51,066 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:52,039 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:52,553 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:51:56,189 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:51:57,042 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:51:57,582 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:01,268 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:02,048 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:02,776 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:06,372 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:07,054 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:07,894 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:11,471 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:12,056 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:13,121 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:16,547 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:17,061 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:18,583 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:21,667 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:22,065 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:23,850 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:26,740 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:27,096 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:29,045 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:31,869 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:32,100 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:34,145 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:36,953 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:37,104 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:39,372 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:42,020 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:42,109 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:44,625 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:47,110 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:47,132 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:49,856 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:52,112 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:52,203 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:52:54,883 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:52:57,117 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:52:57,274 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:00,086 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:02,121 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:02,353 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:05,294 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:07,124 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:07,430 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:10,477 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:12,131 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:12,679 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:15,668 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:17,137 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:17,776 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:20,779 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:22,141 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:22,877 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:26,066 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:27,155 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:28,178 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:53:32,043 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:32,188 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:33,270 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:37,197 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:37,294 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:53:38,393 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:42,202 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:42,426 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:53:43,515 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:47,209 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:47,650 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:48,609 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:52,216 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:52,682 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:53,683 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:53:57,224 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:53:57,914 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:53:58,760 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:02,228 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:03,032 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:54:03,896 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:07,233 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:08,260 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:54:08,975 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:12,240 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:13,284 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:54:14,048 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:17,245 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:18,499 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:54:19,140 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:54:22,251 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:23,715 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:54:24,239 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:54:27,256 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:28,745 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:54:29,364 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:54:32,261 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:33,927 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:54:34,464 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:37,328 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:39,104 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:54:39,546 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:42,336 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:44,292 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:54:44,628 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:47,341 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:49,401 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:54:49,725 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:54:52,347 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:54:54,584 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:54:54,867 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:54:57,349 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:02,352 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:07,354 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:12,357 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:17,362 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:19,783 INFO finished processing http://f-secure.com/hello, invalid hostname, took 0.01 seconds
+2014-08-14 03:55:22,365 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:27,370 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:32,372 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:55:37,377 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:56:12,475 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:56:20,406 INFO finished processing http://f-secure.com, invalid hostname, took 0.02 seconds
+2014-08-14 03:56:46,417 INFO finished processing http://f-secure.com/hello, invalid hostname, took 0.01 seconds
+2014-08-14 03:56:51,334 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:56:51,336 INFO finished processing http://f-secure.com, invalid hostname, took 0.00 seconds
+2014-08-14 03:56:51,766 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:56:56,373 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:56:56,620 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:56:56,875 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:57:01,377 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:01,749 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:57:02,098 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:57:06,380 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:06,828 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:57:07,353 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:57:11,386 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:16,389 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:21,393 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:26,398 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:31,404 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:33,466 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:57:36,407 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:39,457 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:57:39,602 INFO finished processing http://f-secure.com, invalid hostname, took 0.02 seconds
+2014-08-14 03:57:41,412 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:44,502 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:57:44,917 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:57:46,413 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:49,988 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:57:50,091 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:57:51,416 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:57:55,216 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:57:55,288 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:57:56,420 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:00,293 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:58:00,373 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:58:01,534 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:05,570 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:58:05,726 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:58:06,541 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:10,632 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:58:10,862 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:58:11,547 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:15,798 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:58:16,155 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:58:16,549 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:21,505 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:58:21,554 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:21,571 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:58:26,558 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:26,651 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:58:26,745 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:58:31,562 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:32,015 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:58:32,051 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:58:36,564 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:37,075 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:58:37,261 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:58:41,568 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:42,367 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:58:42,392 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.03 seconds
+2014-08-14 03:58:46,571 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:47,418 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:58:47,583 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:58:51,578 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:52,614 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:58:52,663 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:58:56,582 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:58:57,644 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:58:57,746 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:01,586 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:02,837 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:59:02,839 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:59:06,622 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:07,916 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:59:08,043 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 03:59:11,628 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:12,990 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:59:13,069 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:59:16,637 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:18,121 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:18,272 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:59:21,640 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:23,177 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:23,376 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:59:26,646 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:28,256 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:28,417 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:59:31,648 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:33,390 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:33,604 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:59:36,652 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:38,498 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:38,817 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:59:41,658 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:43,638 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:59:43,845 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:59:46,667 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:48,717 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:49,071 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 03:59:51,674 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:53,799 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 03:59:54,189 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 03:59:56,678 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 03:59:58,881 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 03:59:59,421 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:00:01,685 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:03,963 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:00:04,452 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:00:06,692 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:09,089 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:00:11,803 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:12,028 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:00:14,176 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:16,809 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:17,221 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:00:19,277 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:21,814 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:22,325 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:00:24,361 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:26,822 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:27,556 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:00:29,469 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:31,830 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:32,764 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:00:34,598 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:36,834 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:37,987 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:00:39,685 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:41,838 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:43,098 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:00:44,783 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:46,846 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:48,288 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:00:49,877 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:51,850 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:53,511 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:00:54,959 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:00:56,854 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:00:58,630 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:01:00,093 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:01,860 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:03,657 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:01:05,171 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:06,868 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:08,843 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:01:10,250 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:11,870 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:13,962 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:01:15,330 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:16,986 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:19,181 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:01:20,442 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:21,992 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:25,565 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:01:25,844 INFO finished processing http://f-secure.com/hello, http error 404, took 0.02 seconds
+2014-08-14 04:01:26,998 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:30,641 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:30,885 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:01:32,003 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:35,721 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:37,009 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:39,252 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:01:40,808 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:42,016 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:44,356 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:01:45,891 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:47,024 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:49,543 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:01:51,012 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:52,026 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:54,768 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:01:56,091 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:01:57,032 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:01:59,886 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:02:01,190 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:02:02,037 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:05,113 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:06,275 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:02:07,045 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:10,214 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:11,374 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:02:12,055 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:15,418 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:02:16,529 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:02:17,061 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:20,602 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:21,613 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:02:22,096 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:25,800 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:26,696 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:02:27,102 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:30,923 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:02:31,782 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:02:32,108 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:36,145 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:36,879 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:02:37,113 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:41,367 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:42,012 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:02:42,117 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:46,626 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:47,094 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.02 seconds
+2014-08-14 04:02:47,122 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:51,656 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:52,125 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:52,179 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:02:56,852 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:02:57,129 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:02:57,257 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:02,084 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:03:02,132 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:02,340 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:07,140 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:07,524 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:08,991 INFO finished processing http://f-secure.com/hello, http error 404, took 0.01 seconds
+2014-08-14 04:03:12,144 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:12,580 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:14,214 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:03:17,146 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:17,660 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:19,510 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:03:22,148 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:22,736 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:24,614 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:03:27,178 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:27,832 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:29,913 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:03:32,181 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:33,002 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:35,028 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:03:37,201 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:38,084 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:40,308 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds
+2014-08-14 04:03:42,207 INFO finished processing http://f-secure.fff, invalid hostname, took 0.00 seconds
+2014-08-14 04:03:43,180 INFO finished processing http://f-secure.com, found pattern "F-Secure", took 0.01 seconds
+2014-08-14 04:03:45,437 INFO finished processing http://f-secure.com/hello, http error 404, took 0.00 seconds

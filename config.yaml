@@ -1,0 +1,5 @@
+period: 5
+logfile: output.log
+datafile: urllist.txt
+host: 127.0.0.1
+port: 8080

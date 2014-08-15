@@ -1,0 +1,3 @@
+http://f-secure.com/hello|F-Secure
+http://f-secure.fff|F-Secure
+http://f-secure.com|F-Secure
